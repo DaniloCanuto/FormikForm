@@ -1,6 +1,6 @@
 # FormikForm
 
-https://danilocanuto.github.io/FormikForm/
+https://github.com/DaniloCanuto/FormikForm
 
 Description: In this activity, I created a login form with validation using Formik.
 
