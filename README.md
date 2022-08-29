@@ -1,5 +1,4 @@
 # [Formik Form](https://danilocanuto.github.io/FormikForm)
-https://danilocanuto.github.io/Eyes/
 
 Description: In this activity, I created a login form with validation using Formik.
 
